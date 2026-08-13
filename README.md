@@ -24,7 +24,9 @@ Whenever changes are pushed to the main branch, GitHub automatically builds and 
 - GitHub Pages
 - Visual Studio Code
 
-## Project Structure
+## 📁 Project Structure
+
+```text
 gh-deployment-workflow/
 │
 ├── .github/
@@ -39,11 +41,11 @@ gh-deployment-workflow/
 │
 ├── docs/
 ├── screenshots/
-│
 ├── index.html
 └── README.md
 
 ## CI/CD Workflow
+
 The deployment process follows these steps:
 
 1. Developer updates the source code.
